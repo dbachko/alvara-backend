@@ -1,0 +1,10 @@
+.git
+.gitignore
+.idea
+.pytest_cache
+.ruff_cache
+.venv
+__pycache__
+artifacts
+tests
+*.pyc

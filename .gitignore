@@ -1,4 +1,8 @@
 .idea/
 __pycache__/
 artifacts/
-AlvaraStorage.json
+.pytest_cache/
+.ruff_cache/
+.venv/
+*.py[cod]
+.DS_Store
